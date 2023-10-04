@@ -1,2 +1,4 @@
 linguist-vendored
 .pas linguist-vendored=false
+.pp linguist-vendored=false
+.inc linguist-vendored=false
