@@ -1,4 +1,4 @@
 linguist-vendored
-.pas linguist-vendored=false
-.pp linguist-vendored=false
-.inc linguist-vendored=false
+.pas linguist-detectable=false
+.pp linguist-detectable=false
+.inc linguist-detectable=false
