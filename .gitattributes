@@ -1,4 +1,4 @@
-linguist-vendored
-.pas linguist-detectable=false
-.pp linguist-detectable=false
-.inc linguist-detectable=false
+
+*.pas linguist-detectable=false
+*.pp linguist-detectable=false
+*.inc linguist-detectable=false
